@@ -1,0 +1,1 @@
+Download the files you need for the consoles and bg.png. Rename bg.png to MK.png and place it in a convenient location. Set that to your background. Change the directoy of dynamic backgrounds to somewhere easy-to-access, and place all of the files there except for MK.png. Restart RetroArch, and that's it.
